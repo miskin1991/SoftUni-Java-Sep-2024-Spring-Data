@@ -29,4 +29,5 @@ out/
 
 # SoftUni protected files
 *.docx
+*.pdf
 *.sql
